@@ -1,0 +1,28 @@
+Nombre: El Garaje (... de Tony?)
+Tema: Tienda Marvel
+Eslogan: Entrar es... inevitable
+
+COLORES
+Acento: #ED1D24
+
+Correo: Crear correo real
+Favicon: Reactor ARC
+Logo: Reactor ARC (quizá con iniciales del nombre)
+Dirección: C. Francisco Tormo de Haro, 8B, 03300 Orihuela, Alicante
+	Enlace:https://goo.gl/maps/JjRp6UtY6mARmzrV8
+	Insertar: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d638.9420091470824!2d-0.9510254183190638!3d38.08137754890242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2ses!4v1635503549330!5m2!1ses!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+
+ARTÍCULOS
+
+Guantelete del Infinito: "Puesto que a veces la Realidad puede ser decepcionante, con esto podrás forjar un multiverso a tu medida con sólo chasquear los dedos".
+
+Reactor ARC: Que conste, esto es un artículo físico que casualmente resulta ser nuestro logo, no estás comprando los derechos de nuestro logo, ¿queda claro? Dicho eso, este reactor podrá funcionar durante tiempo suficiente como para que se lo dejes en herencia a tus hijos. Y tus nietos. Y tus bisnietos. Y también... bueno, que tiene mucha autonomía. También dicen que su fuente de energía sabe un poquito a coco... y a metal.
+
+[Artículo de nombre raro]: Es una palabra inventada... ¿pero no lo son todas?
+
+Stormbreaker: Lanza una THORmenta de rayos con esta increíble arma. Precaución: los seres que no sean suficientemente fuertes podrían ver sus cuerpos y mentes desmoronarse al intentar sostener esta arma digna de un rey.
+
+IDEAS
+
+Formulario contacto: Incluir frases "Chicos, alto. Tenemos que hablar" y "Buena charla".
