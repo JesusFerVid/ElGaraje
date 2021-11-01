@@ -26,3 +26,9 @@ Stormbreaker: Lanza una THORmenta de rayos con esta increíble arma. Precaución
 IDEAS
 
 Formulario contacto: Incluir frases "Chicos, alto. Tenemos que hablar" y "Buena charla".
+Califica nuestra página: 1 a 5 estrellas:
+	1: 
+	2:
+	3: Equilibrada, como todo debería estarlo.
+	4: 
+	5: Os quiero 3000.
