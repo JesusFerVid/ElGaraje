@@ -37,14 +37,23 @@
 		</section>
 		<section>
 			<h2>Cuenta tus inquietudes</h2>
+			<!-- Delimitador de formulario -->
 			<form>
+				<!-- Delimita un conjunto de campos de formulario con un borde -->
 				<fieldset>
+					<!-- legend establece el título del fieldset -->
 					<legend>Formulario de contacto</legend>
+					<!-- label indica la etiqueta de un campo de formulario -->
+					<!-- El atributo for la empareja con un campo por su id. Permite hacer foco al campo haciendo click en la etiqueta -->
 					<label for="asunto">Asunto:</label><br>
+					<!-- Cuadro de texto -->
 					<input type="text" name="asunto" id="asunto"><br>
 					<label for="mensaje">Mensaje:</label><br>
+					<!-- Area de texto. Similar al cuadro, pero pensado para textos más grandes -->
 					<textarea name="mensaje" id="mensaje" cols="150" rows="20" placeholder="Chicos, alto. Tenemos que hablar..."></textarea><br>
+					<!-- Botón de envío de datos -->
 					<input type="submit" value="Enviar" title="Buena charla">
+					<!-- Botón de reinicio de formulario -->
 					<input type="reset" value="Empezaré desde cero" title="No, no lo ha sido...">
 				</fieldset>
 			</form>
