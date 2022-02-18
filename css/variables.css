@@ -6,5 +6,6 @@
 	--terciary: #67C7EB;
 
 	--marvel-red: #ED1D24;
+	--accent-color: var(--marvel-red);
 	--light-text: #FFF;
 }
