@@ -1,2 +1,0 @@
-[ ] Maquetar header. Logo a la izquierda, navegación al centro y login a la derecha.
-[ ] Poner color de selección como el rojo Marvel #ED1D24
