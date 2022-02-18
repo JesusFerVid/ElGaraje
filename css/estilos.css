@@ -1,0 +1,30 @@
+@import url(variables.css);
+
+* {
+	box-sizing: border-box;
+}
+
+::selection {
+	background-color: var(--accent-color);
+	color: var(--light-text);
+}
+
+body{
+	margin: 0px;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+a{
+	color: white;
+}
+
+header{
+	background-color: var(--accent-color);
+}
+
+footer{
+	background-color: var(--accent-color);
+}
